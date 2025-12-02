@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Hold On Tight",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-02T08:01:32.432231Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hold on Tight",
+      "artist": "A Place to Bury Strangers",
+      "has_synced": true,
+      "path": "select/01_Hold_on_Tight_A_Place_to_Bury_Strangers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hold On Tight",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/02_Hold_On_Tight_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hold On Tight",
+      "artist": "The Communards",
+      "has_synced": true,
+      "path": "select/03_Hold_On_Tight_The_Communards.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hold On Tight",
+      "artist": "Communards",
+      "has_synced": true,
+      "path": "select/04_Hold_On_Tight_Communards.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hold On Tight - Extended Version",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/05_Hold_On_Tight_-_Extended_Version_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hold On Tight (Extended Version)",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/06_Hold_On_Tight_(Extended_Version)_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hold On Tight - Radio Mix",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/07_Hold_On_Tight_-_Radio_Mix_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hold On Tight (Radio Mix)",
+      "artist": "Samantha Fox",
+      "has_synced": false,
+      "path": "select/08_Hold_On_Tight_(Radio_Mix)_Samantha_Fox.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hold on Tight",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/09_Hold_on_Tight_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hold On Tight",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/10_Hold_On_Tight_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hold on Tight",
+      "artist": "Girlschool",
+      "has_synced": false,
+      "path": "select/11_Hold_on_Tight_Girlschool.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hold on Tight",
+      "artist": "Getter feat. Njomza",
+      "has_synced": true,
+      "path": "select/12_Hold_on_Tight_Getter_feat._Njomza.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hold on Tight (feat. NJOMZA)",
+      "artist": "Getter",
+      "has_synced": false,
+      "path": "select/13_Hold_on_Tight_(feat._NJOMZA)_Getter.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hold on Tight",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/14_Hold_on_Tight_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hold On Tight and Don't Let Go",
+      "artist": "The Knack",
+      "has_synced": false,
+      "path": "select/15_Hold_On_Tight_and_Don't_Let_Go_The_Knack.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hold on Tight",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/16_Hold_on_Tight_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hold on Tight",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/17_Hold_on_Tight_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hold On Tight",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Hold_On_Tight_aespa.txt"
+    }
+  ]
+}
